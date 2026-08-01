@@ -1,0 +1,16 @@
+Error Detection & Correction
+
+Objective
+This project demonstrates error detection using **Parity Bit** and **Checksum** in Python.
+
+Features
+- Converts text into binary
+- Generates a parity bit
+- Simulates transmission errors by flipping one bit
+- Detects errors using parity and checksum
+- Displays whether the message is **OK** or **ERROR DETECTED**
+
+ Conclusion
+Parity bit is simple and detects single-bit errors, while checksum is more reliable for detecting data corruption.
+
+**Language Used:** Python 3
