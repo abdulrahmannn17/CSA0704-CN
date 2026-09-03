@@ -1,0 +1,16 @@
+# Smart Campus Network Design - CSA0704
+
+## Team
+- A - M Abdul Rahman (Lead / Topology)
+- B - Madhan S (Routing & Network Layer)
+- C - Madumitta.Ch.S (Transport & Analysis)
+- D - Mohamed Haneef Abdul Rahim (Application + Documentation)
+
+## Contents
+- Smart_Campus_Network_Report.docx - Full technical report covering
+  problem understanding, data-link/network/transport/application layer
+  design, topology methodology, results analysis, and team reflection.
+
+## Setup
+Report can be opened directly in Word/Google Docs. Packet Tracer (.pkt)
+and Wireshark (.pcapng) files to be added.
